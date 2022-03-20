@@ -1,4 +1,15 @@
+package PacoteJava;
 
+import java.util.Scanner;
+
+public class CorrecaoArray1 {
+	public static void main (String args[]) {
+		Scanner ler = new Scanner (System.in);
+		int [] num = new int[6],par = new int[6],impar = new int[6];
+		int somapar=0,contimpar=0,x;
+		
+		for(x=0;x<6;x++)
+		{
 			System.out.println("Entre com um número: ");
 			
 			num[x] = ler.nextInt();
