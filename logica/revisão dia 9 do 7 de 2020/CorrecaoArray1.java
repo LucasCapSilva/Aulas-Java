@@ -1,5 +1,5 @@
 package PacoteJava;
-import java.util.Scanner;
+
 
 
 public class CorrecaoArray1 {
