@@ -1,6 +1,6 @@
 package PacoteJava;
 
-import java.util.Scanner;
+
 
 public class CorrecaoArray1 {
 	public static void main (String args[]) {
